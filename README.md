@@ -19,7 +19,7 @@
 -Want to learn about more progaming languages
 
 <p alighn="left">
-  <img src="https://media.giphy.com/media/jRtZJvoWxWVJ7uF1cx/giphy.gif"/> 
+  <img src="https://es.wikipedia.org/wiki/Python_Software_Foundation_License#/media/Archivo:Python.svg"/> 
 </p>
 
 <h3 align="center"> That's all for now</h3>
