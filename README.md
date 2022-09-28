@@ -22,8 +22,8 @@
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width= "150"/> 
 </p>
 
-<p align="left"> 
-  <img src="https://www.facebook.com/photo/?fbid=158259370184746&set=a.158259336851416" width= "150"/> 
+<p align="center"> 
+  <img src="https://media.giphy.com/media/RTVur5J0hr1dWiIdZf/giphy.gif" width= "150"/> 
 </p>
 
 <h3 align="center"> That's all for now</h3>
