@@ -32,6 +32,6 @@
 
 ## Personal social media
 <div id="badges" align="center">
-  <p href:"https://twitter.com/J0hanNGH" targets:"_blank">
-    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=Red&label=Johan&logo=Twitter&logoColor=asasd&style=social&url=https%3A%2F%2Ftwitter.com%2FJ0hanNGH">
+  <p href:"https://img.shields.io/twitter/url?label=Johan&logo=Twitter&logoColor=asasd&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FJ0hanNGH" targets:"_blank">
+    <img src="https://twitter.com/J0hanNGH">
   </p>
