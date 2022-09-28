@@ -1,7 +1,9 @@
 # Holaaaaa
 ## Me llamo Johan
-<p align="center"> <img /> </p>
-![alt text](https://media.giphy.com/media/jRtZJvoWxWVJ7uF1cx/giphy.gif)
+<p align="center"> 
+  <img src="https://media.giphy.com/media/jRtZJvoWxWVJ7uF1cx/giphy.gif"/> 
+</p>
+
 
 
 
