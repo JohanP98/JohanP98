@@ -29,7 +29,3 @@
 <p align="center"> 
   <img src="https://media.giphy.com/media/Z21HJj2kz9uBG/giphy.gif"/> 
 </p>
-
-<p align="center">
-  <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JohanP98&theme=dark&hide_border=true&border_radius=5.1)](https://git.io/streak-stats)"/>
-             </p>
