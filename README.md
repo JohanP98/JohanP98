@@ -31,7 +31,5 @@
 </p>
 
 ## Personal social media
-<div id="badges" align="center">
-  <p href:"https://twitter.com/J0hanNGH" targets:"_blank">
-    <img src="https://twitter.com/J0hanNGH">
-  </p>
+- Twitter: https://twitter.com/J0hanNGH
+- Instagram: https://www.instagram.com/jhan_pinzn/
