@@ -1,7 +1,4 @@
-
-<p align="center"> 
-  <txt="Buenass">
- 
+2#Buenass
 <p align="center"> 
   <img src="https://media.giphy.com/media/jRtZJvoWxWVJ7uF1cx/giphy.gif"/> 
 </p>
