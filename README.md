@@ -18,7 +18,9 @@
 
 -Want to learn about more progaming languages
 
-![alt text](https://es.wikipedia.org/wiki/Python_Software_Foundation_License#/media/Archivo:Python.svg)
+<p align="left"> 
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"/> 
+</p>
 
 <h3 align="center"> That's all for now</h3>
 
