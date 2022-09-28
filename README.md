@@ -19,7 +19,7 @@
 -Want to learn about more progaming languages
 
 <p alighn="left">
-  <img src="https://es.wikipedia.org/wiki/Python_Software_Foundation_License#/media/Archivo:Python.svg"/> 
+  <img src="https://www.google.com/search?q=python&tbm=isch&ved=2ahUKEwi0_u_zpbb6AhWeIN8KHaQMAWwQ2-cCegQIABAA&oq=python&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6BAgAEENQ1QZYwg5gqA9oAXAAeACAAXGIAaYGkgEDNC40mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Dp4zY7S_C57B_AakmYTgBg&bih=919&biw=958#imgrc=XmmuGvoln--UuM"/> 
 </p>
 
 <h3 align="center"> That's all for now</h3>
