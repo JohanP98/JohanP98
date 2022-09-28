@@ -1,5 +1,5 @@
 # Buenass
-> Me les presento, me llamo Johan
+> Me les presento, me llamo Johan👌
 <p align="center"> 
   <img src="https://media.giphy.com/media/jRtZJvoWxWVJ7uF1cx/giphy.gif"/> 
 </p>
