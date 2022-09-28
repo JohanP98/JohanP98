@@ -14,7 +14,7 @@
 
 -Play shooter games
 
--In process of laerning to use python
+-In process of learning to use python
 
 -Want to learn about more progaming languages
 
