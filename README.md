@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width= "150"/> 
 </p>
 
-![alt text](https://www.facebook.com/photo/?fbid=158259370184746&set=a.158259336851416) width="150"
+![el juego](https://www.facebook.com/photo/?fbid=158259370184746&set=a.158259336851416) width="150"
 
 <h3 align="center"> That's all for now</h3>
 
