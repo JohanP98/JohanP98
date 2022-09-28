@@ -1,8 +1,7 @@
 
 <p align="center"> 
   <txt="Buenass">
-    </p>
-## Me les presento, soy Johan👌
+ 
 <p align="center"> 
   <img src="https://media.giphy.com/media/jRtZJvoWxWVJ7uF1cx/giphy.gif"/> 
 </p>
