@@ -8,28 +8,17 @@
 
 ---
 
-#### About me:
+#### About this guys:
 
+-17 y/o 😄
 
+-Play shooter games
 
+-In process of laerning to use python
 
+-Want to learn about more progaming languages
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h4 align="center"> That's all for now</h4>
 
 
 
