@@ -18,7 +18,10 @@
 
 -Want to learn about more progaming languages
 
-<h2 align="center"> That's all for now</h2>
+<h3 align="center"> That's all for now</h3>
+
+<h2 align="center"> ❤️Thanks for Reading❤️</h2>
+
 
 
 
