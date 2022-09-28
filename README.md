@@ -1,4 +1,4 @@
-<h1 align="center">Buenass, como me les va</h1>
+<h1 align="center">Buenas, como me les va😁</h1>
 > Me les presento, me llamo Johan👌
 <p align="center"> 
   <img src="https://media.giphy.com/media/jRtZJvoWxWVJ7uF1cx/giphy.gif"/> 
