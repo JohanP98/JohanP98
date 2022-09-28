@@ -19,7 +19,7 @@
 -Want to learn about more progaming languages
 
 <p align="left"> 
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"/> 
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width= "150"/> 
 </p>
 
 <h3 align="center"> That's all for now</h3>
