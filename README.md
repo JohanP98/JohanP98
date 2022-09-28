@@ -1,4 +1,4 @@
-<h1 align="center">Hey, how you doing guys😁</h1>
+<h1 align="center">Hey, how you guys doing😁</h1>
 <h3 align="center">I introduce myself, my name is Johan</h3>
 <h3 align="center">technology and video games lover🎮</h3>
 <h3 align="center">System Engineering student at EAN University😎</h3>
