@@ -18,7 +18,7 @@
 
 -Want to learn about more progaming languages
 
-<p 
+<p>
   <img src="https://media.giphy.com/media/jRtZJvoWxWVJ7uF1cx/giphy.gif"/> 
 </p>
 
