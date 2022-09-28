@@ -18,6 +18,10 @@
 
 -Want to learn about more progaming languages
 
+<p 
+  <img src="https://media.giphy.com/media/jRtZJvoWxWVJ7uF1cx/giphy.gif"/> 
+</p>
+
 <h3 align="center"> That's all for now</h3>
 
 <h2 align="center"> ❤️Thanks for Reading❤️</h2>
