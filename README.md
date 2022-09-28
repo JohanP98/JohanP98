@@ -33,5 +33,5 @@
 ## Personal social media
 <div id="badges" align="center">
   <p href:"https://twitter.com/J0hanNGH" targets:"_blank">
-    <img src="https://www.flaticon.com/free-icon/twitch_160193">
+    <img src="https://img.shields.io/twitter/url?label=Johan&logo=Twitter&logoColor=asasd&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FJ0hanNGH">
   </p>
