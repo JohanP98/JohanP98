@@ -1,11 +1,14 @@
-<h1 align="center">Buenas, como me les va😁</h1>
-<h3 align="center">Me presento, me llamo Johan</h3>
-<h3 align="center">Amante de los videojuegos y la tecnología🎮</h3>
-<h3 align="center">Estudiante de Ingeniería de Sistemas de la Universidad EAN😎</h3>
+<h1 align="center">Hey, how you doing guys😁</h1>
+<h3 align="center">I introduce myself, my name is Johan</h3>
+<h3 align="center">technology and video games lover🎮</h3>
+<h3 align="center">System Engineering student at EAN University😎</h3>
 <p align="center"> 
   <img src="https://media.giphy.com/media/jRtZJvoWxWVJ7uF1cx/giphy.gif"/> 
 </p>
 
+---
+
+## About me:
 
 
 
