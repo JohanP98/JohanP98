@@ -1,5 +1,5 @@
 <h1 align="center">Buenas, como me les va😁</h1>
-> Me les presento, me llamo Johan👌
+<h3 align="center">Me presento, me llamo Johan. Estudiante de Inngeniería de Sistemas de la Universidad Ean aprendiendo como funciona esta vaina</h3>
 <p align="center"> 
   <img src="https://media.giphy.com/media/jRtZJvoWxWVJ7uF1cx/giphy.gif"/> 
 </p>
